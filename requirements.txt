@@ -1,0 +1,8 @@
+# https://www.youtube.com/watch?v=I0m92SBfDI8&t=201s     tuto=>fazt
+
+# pip install --upgrade pip
+# pip install -r requirements.txt
+
+# python .\manage.py runserver
+
+Django==4.0.4
